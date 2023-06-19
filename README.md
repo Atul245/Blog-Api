@@ -1,4 +1,4 @@
-# FastAPI Blog API
+# Blog API
 
 This project implements a Blog API using FastAPI. It provides endpoints for managing blog posts and user authentication.
 
@@ -17,7 +17,7 @@ This project implements a Blog API using FastAPI. It provides endpoints for mana
    
 2. Change to the project directory:
 
-   cd your-repository
+   cd https://github.com/Atul245/Blog-Api.git
    
 3. Install the required dependencies using pip:
     
