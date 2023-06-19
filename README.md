@@ -32,6 +32,7 @@ This project implements a Blog API using FastAPI. It provides endpoints for mana
 3. Use the available endpoints to interact with the API.
 
 ## API Endpoints
+
 ### Blogs
   -GET /blogs: Get a list of all blog posts.
   -GET /blogs/{blog_id}: Get a specific blog post by ID.
