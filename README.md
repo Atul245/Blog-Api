@@ -34,14 +34,19 @@ This project implements a Blog API using FastAPI. It provides endpoints for mana
 ## API Endpoints
 
 ### Blogs
+
   -GET /blogs: Get a list of all blog posts.
   -GET /blogs/{blog_id}: Get a specific blog post by ID.
   -POST /blogs: Create a new blog post.
   -PUT /blogs/{blog_id}: Update an existing blog post.
   -DELETE /blogs/{blog_id}: Delete a blog post.
+  
 ### Users
+
   -GET /users: Get a list of all users.
   -GET /users/{user_id}: Get user information by ID.
   -POST /users: Create a new user.
+  
 ### Authentication
+
   -POST /login: User login endpoint. Returns a JWT token upon successful authentication.
